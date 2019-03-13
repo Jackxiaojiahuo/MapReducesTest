@@ -19,7 +19,7 @@ import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description:
  * @Date: Created in 21:43 2018/11/26
  */

@@ -8,7 +8,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 import java.io.IOException;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description:
  * @Date: Created in 20:02 2018/11/19
  * <p>

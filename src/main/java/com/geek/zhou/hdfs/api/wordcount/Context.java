@@ -3,7 +3,7 @@ package com.geek.zhou.hdfs.api.wordcount;
 import java.util.HashMap;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description:
  * @Date: Created in 20:38 2018/12/2
  */

@@ -3,7 +3,7 @@ package com.geek.zhou.hdfs.datacollect;
 import java.util.Properties;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description: 单例设计模式, 方式一:饿汉式单例
  * @Date: Created in 15:56 2018/12/2
  */

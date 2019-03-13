@@ -1,7 +1,7 @@
 package com.geek.zhou.hdfs.api.wordcount;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description:
  * @Date: Created in 20:54 2018/12/2
  */

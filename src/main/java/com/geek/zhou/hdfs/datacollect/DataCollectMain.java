@@ -3,7 +3,7 @@ package com.geek.zhou.hdfs.datacollect;
 import java.util.Timer;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description:
  * @Date: Created in 22:24 2018/11/23
  */

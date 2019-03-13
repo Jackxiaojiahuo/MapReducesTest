@@ -1,7 +1,7 @@
 package com.geek.zhou.hdfs.datacollect;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description:
  * @Date: Created in 16:11 2018/12/2
  */

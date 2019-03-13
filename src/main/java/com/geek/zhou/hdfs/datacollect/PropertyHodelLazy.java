@@ -1,10 +1,9 @@
 package com.geek.zhou.hdfs.datacollect;
 
-import java.io.IOException;
 import java.util.Properties;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description: 单例设计, 方式二:懒汉式单例--考虑了线程安全
  * @Date: Created in 16:01 2018/12/2
  */

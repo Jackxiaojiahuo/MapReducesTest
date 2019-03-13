@@ -12,7 +12,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import java.net.URI;
 
 /**
- * @Author: ZhouZhiWei
+ * @Author: Jack Zhou
  * @Description: 用于提交mapreduce job的客户端程序
  * 功能:
  * 1.封装本次job 运行时所需要的必要参数
