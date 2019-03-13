@@ -70,7 +70,7 @@ public class CommonFriendsOne {
         job.setMapperClass(CommonFriendsOneMapper.class);
         job.setReducerClass(CommonFriendsOneReducer.class);
 
-        job.setNumReduceTasks(2);
+        job.setNumReduceTasks(1);
 
         job.setMapOutputKeyClass(Text.class);
         job.setMapOutputValueClass(Text.class);
